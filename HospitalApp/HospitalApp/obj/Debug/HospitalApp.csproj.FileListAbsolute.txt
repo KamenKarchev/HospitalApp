@@ -1,0 +1,12 @@
+C:\Users\Kamen\source\repos\HospitalApp\HospitalApp\bin\Debug\HospitalApp.exe.config
+C:\Users\Kamen\source\repos\HospitalApp\HospitalApp\bin\Debug\HospitalApp.exe
+C:\Users\Kamen\source\repos\HospitalApp\HospitalApp\bin\Debug\HospitalApp.pdb
+C:\Users\Kamen\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kamen\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Form1.resources
+C:\Users\Kamen\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Properties.Resources.resources
+C:\Users\Kamen\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.GenerateResource.cache
+C:\Users\Kamen\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\Kamen\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.exe
+C:\Users\Kamen\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb
+C:\Users\Kamen\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Models.AddDoctor.resources
+C:\Users\Kamen\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.AssemblyReference.cache

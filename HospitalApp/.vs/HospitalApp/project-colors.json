@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd3e2b32-051f-49a2-afd1-b078036b969d": {
+      "ProjectGuid": "bd3e2b32-051f-49a2-afd1-b078036b969d",
+      "DisplayName": "HospitalApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
